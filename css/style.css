@@ -255,6 +255,7 @@ li {
 }
 
 .about-details p {
+  padding: 0 1rem;
   text-align: justify;
 }
 
